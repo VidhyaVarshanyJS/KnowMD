@@ -1,6 +1,5 @@
 # KnowMD 
-
-
+![knowmd logo](https://github.com/user-attachments/assets/b7d4c15a-af17-42ea-86e4-99bedabb3eaf)
 
 ## Abstract
 Recent advancements in biomedical language models have significantly improved the processing and understanding of medical texts. However, existing models struggle with efficiently retrieving and synthesizing information from large, unstructured datasets. This project integrates Microsoft’s GraphRAG with local large language models (LLMs) to enhance retrieval-augmented generation (RAG) capabilities. By leveraging GraphRAG’s structured knowledge graphs and local LLMs’ inference capabilities, we aim to revolutionize biomedical natural language processing.
@@ -13,8 +12,6 @@ Physicians face the challenge of staying current with rapidly expanding medical 
 - **Offline LLM Support:** Configuring GraphRAG (local & global search) to support local models from Ollama for inference and embedding.
 - **Non-OpenAI Function Calling:** Extending AutoGen to support function calling with non-OpenAI LLMs from Ollama via Lite-LLM proxy server.
 - **Interactive UI:** Deploying Chainlit UI to handle continuous conversations, multi-threading, and user input settings.
-
-
 
 ## Objectives
 1. **Construct a Comprehensive Medical Knowledge Graph:**
