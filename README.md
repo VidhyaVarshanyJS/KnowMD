@@ -6,7 +6,6 @@
   <a href="https://github.com/yourusername/yourproject/releases/tag/v1.0"><img src="https://img.shields.io/badge/release-v1.0-blue.svg" alt="GitHub release"></a>
   <a href="https://github.com/vidhyavarshanyjs/ensemblex/issues"><img src="https://img.shields.io/github/issues/yourusername/yourproject.svg" alt="GitHub issues"></a>
 </p>
-![knowmd logo](https://github.com/user-attachments/assets/6226ee1a-0b72-45bd-bb5f-07db305fc453)
 
 ## Abstract
 Recent advancements in biomedical language models have significantly improved the processing and understanding of medical texts. However, existing models struggle with efficiently retrieving and synthesizing information from large, unstructured datasets. This project integrates Microsoft’s GraphRAG with local large language models (LLMs) to enhance retrieval-augmented generation (RAG) capabilities. By leveraging GraphRAG’s structured knowledge graphs and local LLMs’ inference capabilities, we aim to revolutionize biomedical natural language processing.
